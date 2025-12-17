@@ -1,3 +1,6 @@
+# Overview  
+This is a MobileNetV2 model trained with plant_village dataset.  
+  
 # How to run API:  
 ```cmd
 cd backend
