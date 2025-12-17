@@ -2,7 +2,7 @@
 ```cmd
 cd backend
 python -m venv .venv
-pip install requirements.txt
+pip install -r requirements.txt
 python app.py
 ```
 # API sample frontend usage:  
